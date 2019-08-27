@@ -12,7 +12,7 @@ Using the theory of functional dependencies, I was able to develop a well-design
 **NOTE: Moorhead Bicycle is not associated with any currently operating business. No payment information is ever requested and no orders placed on the site will be fulfilled with physical products.**  
   
 On your first visit to the Moorhead Bicycle store front, you will be asked to create a user account.  
-![Moorhead Bicycle registration page](/screencaps/registration.jpg?raw=true)  
+![Moorhead Bicycle registration page](https://github.com/Jeff-Moorhead/Moorhead_Bicycle/blob/master/screencaps/employeeregistration.JPG)  
 Once you have created your user account, you will be able to access the store, where you can purchase bicycles, clothing, and accessories.  
 ![main page](/screencaps/main.jpg)  
 Next, you are able to place orders, and view past orders you have made.
