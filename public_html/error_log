@@ -1,0 +1,406 @@
+[31-Jul-2019 23:56:26 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/moorhjef/public_html/register.php on line 23
+[31-Jul-2019 23:57:16 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/moorhjef/public_html/register.php on line 31
+[31-Jul-2019 23:58:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/moorhjef/public_html/register.php on line 32
+[01-Aug-2019 00:18:03 UTC] PHP Warning:  feof() expects parameter 1 to be resource, boolean given in /home/moorhjef/public_html/register.php on line 32
+[01-Aug-2019 00:18:03 UTC] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in /home/moorhjef/public_html/register.php on line 33
+[01-Aug-2019 00:20:09 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/moorhjef/public_html/register.php on line 35
+[01-Aug-2019 00:23:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/moorhjef/public_html/register.php on line 32
+[01-Aug-2019 19:45:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'register'@'localhost' (using password: YES) in /home/moorhjef/public_html/register.php on line 10
+[01-Aug-2019 19:47:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'register'@'localhost' (using password: YES) in /home/moorhjef/public_html/register.php on line 10
+[01-Aug-2019 20:23:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'register'@'localhost' (using password: NO) in /home/moorhjef/public_html/register.php on line 10
+[01-Aug-2019 20:23:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'moorhjef_regist'@'localhost' (using password: NO) in /home/moorhjef/public_html/register.php on line 10
+[01-Aug-2019 20:33:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'moorhjef_regist'@'localhost' (using password: NO) in /home/moorhjef/public_html/register.php on line 12
+[01-Aug-2019 20:35:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'moorhjef_regist'@'localhost' (using password: NO) in /home/moorhjef/public_html/register.php on line 12
+[01-Aug-2019 20:37:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'moorhjef_regist'@'localhost' (using password: NO) in /home/moorhjef/public_html/register.php on line 12
+[01-Aug-2019 20:47:54 UTC] PHP Warning:  Illegal string offset 'regist' in /home/moorhjef/public_html/register.php on line 11
+[01-Aug-2019 20:47:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'regist'@'localhost' (using password: YES) in /home/moorhjef/public_html/register.php on line 11
+[01-Aug-2019 20:48:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'regist'@'localhost' (using password: YES) in /home/moorhjef/public_html/register.php on line 11
+[01-Aug-2019 21:39:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/moorhjef/public_html/register.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/moorhjef/public_html/register.php on line 25
+[01-Aug-2019 21:40:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/moorhjef/public_html/register.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/moorhjef/public_html/register.php on line 25
+[01-Aug-2019 21:43:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/moorhjef/public_html/register.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/moorhjef/public_html/register.php on line 25
+[01-Aug-2019 21:44:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/moorhjef/public_html/register.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/moorhjef/public_html/register.php on line 25
+[01-Aug-2019 21:54:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/moorhjef/public_html/register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/moorhjef/public_html/register.php on line 26
+[01-Aug-2019 21:54:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/moorhjef/public_html/register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/moorhjef/public_html/register.php on line 26
+[01-Aug-2019 21:58:50 UTC] PHP Warning:  Unterminated comment starting line 31 in /home/moorhjef/public_html/register.php on line 31
+[01-Aug-2019 21:58:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moorhjef/public_html/register.php on line 46
+[01-Aug-2019 22:57:01 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/moorhjef/public_html/register.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/moorhjef/public_html/register.php on line 20
+[01-Aug-2019 22:57:26 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/moorhjef/public_html/register.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/moorhjef/public_html/register.php on line 20
+[01-Aug-2019 22:57:28 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/moorhjef/public_html/register.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/moorhjef/public_html/register.php on line 20
+[01-Aug-2019 22:58:11 UTC] PHP Warning:  Unterminated comment starting line 18 in /home/moorhjef/public_html/register.php on line 18
+[01-Aug-2019 23:02:07 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/moorhjef/public_html/register.php on line 3
+[01-Aug-2019 23:03:52 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/moorhjef/public_html/register.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/moorhjef/public_html/register.php on line 20
+[01-Aug-2019 23:04:12 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/moorhjef/public_html/register.php on line 20
+[01-Aug-2019 23:04:39 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/moorhjef/public_html/register.php on line 2
+[02-Aug-2019 00:50:20 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/moorhjef/public_html/register.php on line 31
+[02-Aug-2019 00:55:43 UTC] PHP Warning:  main(): Couldn't fetch mysqli_stmt in /home/moorhjef/public_html/register.php on line 37
+[02-Aug-2019 01:00:05 UTC] PHP Warning:  mysqli_stmt::execute(): (22001/1406): Data too long for column 'pwd' at row 1 in /home/moorhjef/public_html/register.php on line 36
+[02-Aug-2019 01:16:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::num_rows() in /home/moorhjef/public_html/login.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/moorhjef/public_html/login.php on line 24
+[02-Aug-2019 01:19:48 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/moorhjef/public_html/login.php on line 23
+[02-Aug-2019 01:20:09 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/moorhjef/public_html/login.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/moorhjef/public_html/login.php on line 23
+[02-Aug-2019 13:40:15 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/moorhjef/public_html/login.php:1) in /home/moorhjef/public_html/login.php on line 29
+[02-Aug-2019 13:40:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/moorhjef/public_html/login.php:1) in /home/moorhjef/public_html/login.php on line 29
+[02-Aug-2019 13:44:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/moorhjef/public_html/login.php:1) in /home/moorhjef/public_html/login.php on line 29
+[02-Aug-2019 14:49:12 UTC] PHP Warning:  syntax error, unexpected '!' in ../userdata/config.ini on line 10
+ in /home/moorhjef/public_html/login.php on line 12
+[02-Aug-2019 14:49:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/moorhjef/public_html/login.php on line 13
+[02-Aug-2019 14:51:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'moorhjef_store'@'localhost' (using password: YES) in /home/moorhjef/public_html/store.php on line 10
+[02-Aug-2019 14:52:27 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'moorhjef_store'@'localhost' (using password: YES) in /home/moorhjef/public_html/store.php on line 11
+[02-Aug-2019 14:52:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'moorhjef_store'@'localhost' (using password: YES) in /home/moorhjef/public_html/store.php on line 11
+[02-Aug-2019 14:52:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'moorhjef_store'@'localhost' (using password: YES) in /home/moorhjef/public_html/store.php on line 11
+[02-Aug-2019 14:52:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'moorhjef_store'@'localhost' (using password: YES) in /home/moorhjef/public_html/store.php on line 11
+[02-Aug-2019 14:56:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::num_rows() in /home/moorhjef/public_html/store.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/moorhjef/public_html/store.php on line 19
+[02-Aug-2019 15:51:49 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/moorhjef/public_html/login_check.php on line 3
+[02-Aug-2019 16:43:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/moorhjef/public_html/login.php:8) in /home/moorhjef/public_html/login.php on line 38
+[02-Aug-2019 17:02:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/moorhjef/public_html/register.php on line 4
+[02-Aug-2019 19:19:49 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/moorhjef/public_html/store.php on line 48
+[02-Aug-2019 19:19:51 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/moorhjef/public_html/store.php on line 48
+[12-Aug-2019 01:32:03 UTC] PHP Warning:  include(login_check.php): failed to open stream: No such file or directory in /home/moorhjef/public_html/store.php on line 3
+[12-Aug-2019 01:32:03 UTC] PHP Warning:  include(): Failed opening 'login_check.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/moorhjef/public_html/store.php on line 3
+[12-Aug-2019 01:33:37 UTC] PHP Warning:  include(login_check.php): failed to open stream: No such file or directory in /home/moorhjef/public_html/store.php on line 3
+[12-Aug-2019 01:33:37 UTC] PHP Warning:  include(): Failed opening 'login_check.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/moorhjef/public_html/store.php on line 3
+[12-Aug-2019 01:33:39 UTC] PHP Warning:  include(login_check.php): failed to open stream: No such file or directory in /home/moorhjef/public_html/store.php on line 3
+[12-Aug-2019 01:33:39 UTC] PHP Warning:  include(): Failed opening 'login_check.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/moorhjef/public_html/store.php on line 3
+[12-Aug-2019 01:39:50 UTC] PHP Warning:  include(login_check.php): failed to open stream: No such file or directory in /home/moorhjef/public_html/store.php on line 3
+[12-Aug-2019 01:39:50 UTC] PHP Warning:  include(): Failed opening 'login_check.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/moorhjef/public_html/store.php on line 3
+[12-Aug-2019 15:44:31 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:44:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/moorhjef/public_html/store.php on line 61
+[12-Aug-2019 15:44:31 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:44:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/moorhjef/public_html/store.php on line 61
+[12-Aug-2019 15:44:31 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:44:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/moorhjef/public_html/store.php on line 61
+[12-Aug-2019 15:44:31 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:44:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/moorhjef/public_html/store.php on line 61
+[12-Aug-2019 15:46:02 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:46:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/moorhjef/public_html/store.php on line 61
+[12-Aug-2019 15:46:02 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:46:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/moorhjef/public_html/store.php on line 61
+[12-Aug-2019 15:46:02 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:46:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/moorhjef/public_html/store.php on line 61
+[12-Aug-2019 15:46:02 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:46:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/moorhjef/public_html/store.php on line 61
+[12-Aug-2019 15:46:30 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:46:30 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:46:30 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:46:30 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:47:23 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:47:24 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:47:24 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:47:24 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:53:17 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:53:17 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:53:17 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:53:17 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:54:28 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:54:28 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:54:28 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 15:54:28 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:03:57 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:03:57 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:03:57 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:03:57 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:06:29 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:06:29 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:06:29 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:06:29 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:07:23 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:07:23 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:07:23 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:07:23 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:08:38 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:08:38 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:08:38 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:08:38 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:08:49 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:08:49 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:08:49 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:08:49 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:09:19 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:09:19 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:09:19 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:09:19 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:10:45 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:10:45 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:10:45 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:10:45 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:11:13 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:11:13 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:11:13 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:11:13 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:13:03 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:03 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:03 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:03 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:04 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:04 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:04 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:04 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:05 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:05 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:05 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:05 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:06 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:06 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:06 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:06 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:07 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:07 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:07 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:13:07 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 58
+[12-Aug-2019 16:15:52 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:15:52 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:15:52 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:15:52 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:20:59 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:20:59 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:20:59 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:20:59 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:22:56 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:22:56 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:22:56 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:22:56 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:22:57 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:22:57 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:22:57 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:22:57 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:23:37 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:23:37 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:23:37 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 16:23:37 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 17:49:54 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 17:49:54 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 17:49:54 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 17:49:54 UTC] PHP Warning:  Illegal string offset 'sku' in /home/moorhjef/public_html/store.php on line 59
+[12-Aug-2019 18:58:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free_result() on null in /home/moorhjef/scripts/addtocart.php:29
+Stack trace:
+#0 /home/moorhjef/public_html/store.php(24): require()
+#1 {main}
+  thrown in /home/moorhjef/scripts/addtocart.php on line 29
+[12-Aug-2019 18:59:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/moorhjef/scripts/addtocart.php:30
+Stack trace:
+#0 /home/moorhjef/public_html/store.php(24): require()
+#1 {main}
+  thrown in /home/moorhjef/scripts/addtocart.php on line 30
+[12-Aug-2019 18:59:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/moorhjef/scripts/addtocart.php:30
+Stack trace:
+#0 /home/moorhjef/public_html/store.php(24): require()
+#1 {main}
+  thrown in /home/moorhjef/scripts/addtocart.php on line 30
+[12-Aug-2019 19:24:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/moorhjef/scripts/login_check.php on line 8
+[12-Aug-2019 19:28:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/moorhjef/scripts/login_check.php:6) in /home/moorhjef/scripts/login_check.php on line 9
+[12-Aug-2019 23:54:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/moorhjef/public_html/htmlhead.php:1) in /home/moorhjef/scripts/logout.php on line 2
+[13-Aug-2019 01:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/moorhjef/scripts/register.php:45
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(7): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/register.php on line 45
+[13-Aug-2019 01:49:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/moorhjef/scripts/login.php:23) in /home/moorhjef/scripts/login.php on line 28
+[13-Aug-2019 12:02:16 UTC] PHP Warning:  require_once(viewcart.php): failed to open stream: No such file or directory in /home/moorhjef/public_html/carthandler.php on line 2
+[13-Aug-2019 12:02:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'viewcart.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/moorhjef/public_html/carthandler.php on line 2
+[13-Aug-2019 12:03:19 UTC] PHP Warning:  require_once(viewcart.php): failed to open stream: No such file or directory in /home/moorhjef/public_html/carthandler.php on line 2
+[13-Aug-2019 12:03:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'viewcart.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/moorhjef/public_html/carthandler.php on line 2
+[13-Aug-2019 12:03:20 UTC] PHP Warning:  require_once(viewcart.php): failed to open stream: No such file or directory in /home/moorhjef/public_html/carthandler.php on line 2
+[13-Aug-2019 12:03:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'viewcart.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/moorhjef/public_html/carthandler.php on line 2
+[13-Aug-2019 13:22:13 UTC] PHP Parse error:  syntax error, unexpected 'submit' (T_STRING), expecting ',' or ';' in /home/moorhjef/scripts/viewcart.php on line 36
+[13-Aug-2019 14:21:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/moorhjef/scripts/orderconfirm.php on line 25
+[13-Aug-2019 14:21:40 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/moorhjef/scripts/orderconfirm.php on line 4
+[13-Aug-2019 14:23:14 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/moorhjef/scripts/orderconfirm.php on line 18
+[13-Aug-2019 14:24:15 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/moorhjef/scripts/orderconfirm.php on line 18
+[13-Aug-2019 14:29:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/moorhjef/scripts/orderconfirm.php:1) in /home/moorhjef/scripts/orderconfirm.php on line 9
+[13-Aug-2019 17:15:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/moorhjef/scripts/orderconfirm.php:42
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 42
+[13-Aug-2019 17:17:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/moorhjef/scripts/orderconfirm.php:43
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 43
+[13-Aug-2019 17:18:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/moorhjef/scripts/orderconfirm.php:45
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 45
+[13-Aug-2019 17:19:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/moorhjef/scripts/orderconfirm.php:43
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 43
+[13-Aug-2019 17:22:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/moorhjef/scripts/orderconfirm.php:45
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 45
+[13-Aug-2019 17:25:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/moorhjef/scripts/orderconfirm.php:42
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 42
+[13-Aug-2019 17:25:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/moorhjef/scripts/orderconfirm.php:42
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 42
+[13-Aug-2019 17:26:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/moorhjef/scripts/orderconfirm.php:42
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 42
+[13-Aug-2019 17:27:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/moorhjef/scripts/orderconfirm.php:42
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 42
+[13-Aug-2019 17:27:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/moorhjef/scripts/orderconfirm.php:42
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 42
+[13-Aug-2019 17:29:15 UTC] PHP Warning:  mysqli_errno() expects exactly 1 parameter, 0 given in /home/moorhjef/scripts/orderconfirm.php on line 44
+[13-Aug-2019 17:33:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/moorhjef/scripts/orderconfirm.php:60
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 60
+[13-Aug-2019 17:48:23 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/moorhjef/scripts/orderconfirm.php on line 41
+[13-Aug-2019 18:03:25 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/moorhjef/scripts/orderconfirm.php on line 38
+[13-Aug-2019 18:04:30 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/moorhjef/scripts/orderconfirm.php on line 38
+[13-Aug-2019 18:04:43 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/moorhjef/scripts/orderconfirm.php on line 38
+[13-Aug-2019 18:05:15 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/moorhjef/scripts/orderconfirm.php on line 38
+[13-Aug-2019 18:05:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/moorhjef/scripts/orderconfirm.php:51
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 51
+[13-Aug-2019 18:06:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/moorhjef/scripts/orderconfirm.php:51
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 51
+[13-Aug-2019 18:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/moorhjef/scripts/orderconfirm.php:51
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 51
+[13-Aug-2019 18:19:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/moorhjef/scripts/orderconfirm.php:51
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 51
+[13-Aug-2019 18:21:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/moorhjef/scripts/orderconfirm.php:52
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 52
+[13-Aug-2019 18:21:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/moorhjef/scripts/orderconfirm.php:52
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 52
+[13-Aug-2019 18:21:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/moorhjef/scripts/orderconfirm.php:52
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 52
+[13-Aug-2019 18:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/moorhjef/scripts/orderconfirm.php:52
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 52
+[13-Aug-2019 18:33:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/moorhjef/scripts/orderconfirm.php:53
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 53
+[13-Aug-2019 18:35:03 UTC] PHP Parse error:  syntax error, unexpected '$orderdate' (T_VARIABLE) in /home/moorhjef/scripts/orderconfirm.php on line 50
+[13-Aug-2019 18:37:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on string in /home/moorhjef/scripts/orderconfirm.php:58
+Stack trace:
+#0 /home/moorhjef/public_html/action.php(9): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/orderconfirm.php on line 58
+[13-Aug-2019 22:21:36 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/moorhjef/scripts/orderconfirm.php on line 38
+[13-Aug-2019 22:40:52 UTC] PHP Warning:  mysqli_errno() expects exactly 1 parameter, 0 given in /home/moorhjef/scripts/orderconfirm.php on line 75
+[13-Aug-2019 23:16:41 UTC] PHP Warning:  mysqli_result::close(): Couldn't fetch mysqli_result in /home/moorhjef/scripts/orderconfirm.php on line 71
+[15-Aug-2019 21:25:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/moorhjef/scripts/viewcart.php on line 42
+[15-Aug-2019 21:25:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/moorhjef/scripts/viewcart.php on line 42
+[16-Aug-2019 15:06:34 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/moorhjef/scripts/orderconfirm.php on line 123
+[16-Aug-2019 15:10:38 UTC] PHP Warning:  date() expects parameter 2 to be integer, string given in /home/moorhjef/scripts/orderconfirm.php on line 125
+[19-Aug-2019 01:53:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/moorhjef/scripts/vieworders.php:26
+Stack trace:
+#0 /home/moorhjef/public_html/viewordershandler.php(4): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/vieworders.php on line 26
+[19-Aug-2019 01:54:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/moorhjef/scripts/vieworders.php:26
+Stack trace:
+#0 /home/moorhjef/public_html/viewordershandler.php(4): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/vieworders.php on line 26
+[19-Aug-2019 02:20:28 UTC] PHP Warning:  Illegal string offset 'color' in /home/moorhjef/scripts/vieworders.php on line 36
+[19-Aug-2019 02:20:28 UTC] PHP Warning:  Illegal string offset 'color' in /home/moorhjef/scripts/vieworders.php on line 36
+[19-Aug-2019 02:20:28 UTC] PHP Warning:  Illegal string offset 'color' in /home/moorhjef/scripts/vieworders.php on line 36
+[19-Aug-2019 13:54:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moorhjef/scripts/vieworders.php on line 111
+[19-Aug-2019 17:30:55 UTC] PHP Warning:  require_once(../scripts/adminportal.php): failed to open stream: No such file or directory in /home/moorhjef/public_html/adminhandler.php on line 2
+[19-Aug-2019 17:30:55 UTC] PHP Fatal error:  require_once(): Failed opening required '../scripts/adminportal.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/moorhjef/public_html/adminhandler.php on line 2
+[19-Aug-2019 17:43:00 UTC] PHP Warning:  require_once(htmlhead.html): failed to open stream: No such file or directory in /home/moorhjef/public_html/action.php on line 14
+[19-Aug-2019 17:43:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'htmlhead.html' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/moorhjef/public_html/action.php on line 14
+[19-Aug-2019 17:43:16 UTC] PHP Warning:  require_once(htmlhead.html): failed to open stream: No such file or directory in /home/moorhjef/public_html/action.php on line 14
+[19-Aug-2019 17:43:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'htmlhead.html' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/moorhjef/public_html/action.php on line 14
+[19-Aug-2019 17:43:26 UTC] PHP Warning:  require_once(htmlhead.html): failed to open stream: No such file or directory in /home/moorhjef/public_html/action.php on line 14
+[19-Aug-2019 17:43:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'htmlhead.html' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/moorhjef/public_html/action.php on line 14
+[19-Aug-2019 19:36:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/moorhjef/public_html/employeeportal.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/moorhjef/public_html/employeeportal.php on line 70
+[20-Aug-2019 00:31:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/moorhjef/scripts/adminportal.php on line 15
+[20-Aug-2019 00:31:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/moorhjef/scripts/adminportal.php on line 15
+[20-Aug-2019 00:57:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/moorhjef/scripts/adminportal.php:80
+Stack trace:
+#0 /home/moorhjef/public_html/adminhandler.php(2): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/adminportal.php on line 80
+[20-Aug-2019 00:57:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/moorhjef/scripts/adminportal.php:80
+Stack trace:
+#0 /home/moorhjef/public_html/adminhandler.php(2): require_once()
+#1 {main}
+  thrown in /home/moorhjef/scripts/adminportal.php on line 80
+[20-Aug-2019 11:46:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moorhjef/scripts/employeesearch.php on line 108
+[20-Aug-2019 11:53:32 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/moorhjef/scripts/employeesearch.php on line 53
