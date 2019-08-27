@@ -8,7 +8,7 @@ This project was the culmination of the Database Systems course I completed in p
 * Designing an efficient relational database schema
 * Implementing the theory of relational databases in a real-world application project
 
-Using the theory of functional dependencies, I was able to develop a well-designed database system in which most tables are in BCNF, and all tables are in at least 2NF. I implemented my database design using MySQL and PHP on Montclair State University's cPanel server. The final product can be viewed [here.](http://cyan.csam.montclair.edu/~moorhjef)  
+Using the theory of functional dependencies, I was able to develop a well-designed database system in which most tables are in BCNF, and all tables are in at least 2NF. I implemented my database design using MySQL and PHP on Montclair State University's cPanel server. The final product can be viewed [here.](http://cyan.csam.montclair.edu/~moorhjef) The main purpose of this project was to develop database design and PHP skills, so the front-end is basic, although I plan to add CSS and JavaScript to the page to create a more aesthetic user interface. 
   
 **NOTE: Moorhead Bicycle is not associated with any currently operating business. No payment information is ever requested and no orders placed on the site will be fulfilled with physical products.**  
   
