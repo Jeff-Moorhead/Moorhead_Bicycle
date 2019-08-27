@@ -15,9 +15,9 @@ Using the theory of functional dependencies, I was able to develop a well-design
 On your first visit to the Moorhead Bicycle store front, you will be asked to create a user account.  
 ![Moorhead Bicycle registration page](https://github.com/Jeff-Moorhead/Moorhead_Bicycle/blob/master/screencaps/registration.JPG)  
 Once you have created your user account, you will be able to access the store, where you can purchase bicycles, clothing, and accessories.</br>  
-![main page](https://github.com/Jeff-Moorhead/Moorhead_Bicycle/blob/master/screencaps/main.JPG)</br></br>
+![main page](https://github.com/Jeff-Moorhead/Moorhead_Bicycle/blob/master/screencaps/main.JPG)</br>
 Next, you are able to place orders, and view past orders you have made.
-![orders](https://github.com/Jeff-Moorhead/Moorhead_Bicycle/blob/master/screencaps/orders.JPG)</br>
+![orders](https://github.com/Jeff-Moorhead/Moorhead_Bicycle/blob/master/screencaps/orders.JPG)</br></br>
 Finally, as part of the requirements of this project, I have included some basic human resources functionality, including the ability for salespeople to view customer information and existing orders, and the ability for administrators to register new employee accounts. </br> 
 ![employee portal](https://github.com/Jeff-Moorhead/Moorhead_Bicycle/blob/master/screencaps/employeeportal.JPG)</br></br>
 ![employee registration](https://github.com/Jeff-Moorhead/Moorhead_Bicycle/blob/master/screencaps/employeeregistration.JPG)</br></br>  
